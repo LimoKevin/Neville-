@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kevin Neville
+- 👋 Hi, I’m Kiprotic Kevin
 - 👀 I’m a full stack web developer and app developer. 
 - 🌱 With a degree in computer science 
-- 📫 How to reach me on whatsapp: +254703134183
+- 📫 How to reach me on whatsapp: +254701599565
 
 <!---
 Limohkevin/Limoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
